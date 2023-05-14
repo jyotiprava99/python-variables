@@ -108,11 +108,6 @@ print(b+a)
 # In[38]:
 
 
-letter= "Dear <name>\nYou are selected !\n Congratulations\n date:<date>"
-name=input("Enter your name:")
-date= int(input("Enter date:"))
-print(letter.replace("<name>",name))
-print(letter.replace("<date>", date))
 
 
 # In[ ]:
